@@ -1,0 +1,2 @@
+# strplusplus
+operator++(std::string)
